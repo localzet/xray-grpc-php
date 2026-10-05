@@ -15,3 +15,6 @@ Xray\App\Router\Command\RoutingServiceClient::class;
 Xray\App\Stats\Command\StatsServiceClient::class;
 
 ```
+## Attribution
+
+Maintainer of Localzet contributions: **Ivan Zorin (localzet)** — <creator@localzet.com> · https://www.localzet.com. Copyright © 2026 Localzet Group. Original authorship and third-party licenses remain applicable. See [AUTHORS](.github/AUTHORS.md).

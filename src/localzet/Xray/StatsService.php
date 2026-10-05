@@ -1,5 +1,23 @@
 <?php
 
+/**
+ * @package     Localzet xray-grpc-php
+ * @link        https://github.com/localzet/xray-grpc-php
+ * @author      Ivan Zorin <creator@localzet.com>
+ * @copyright   Copyright (c) 2026 Localzet Group (Localzet contributions)
+ * @license     https://www.gnu.org/licenses/agpl-3.0 GNU Affero General Public License v3.0
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the GNU Affero General Public License as published by the
+ * Free Software Foundation, either version 3, or any later version.
+ * This program is distributed without any warranty; see the license.
+ * A copy is available at <https://www.gnu.org/licenses/>.
+ * Questions: <creator@localzet.com>.
+ *
+ * Original copyright and license notices below remain applicable.
+ */
+
+
 namespace localzet\Xray;
 
 use Grpc\ChannelCredentials;
